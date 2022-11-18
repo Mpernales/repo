@@ -1,0 +1,2 @@
+# repo
+primer ejercicio git
